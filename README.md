@@ -17,6 +17,9 @@ The whole project is made up of five jupyter notebooks. Including:
 * ResNet.ipynb: The notebook is used to build a ResNet model with the last layer to be SVM. This is the optimal model we have for the project.
 
 And also the data for the project can be found in the below links:
+
 https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?select=images
+
 https://www.kaggle.com/datasets/prasoonkottarathil/face-mask-lite-dataset
+
 https://esigelec-my.sharepoint.com/personal/cabani_esigelec_fr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcabani%5Fesigelec%5Ffr%2FDocuments%2FMaskedFaceNetDataset%2FIMFD&ga=1
